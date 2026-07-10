@@ -1,9 +1,0 @@
-numpy==1.26.4
-pandas==2.2.2
-scikit-learn==1.4.2
-tensorflow==2.16.1
-yfinance==0.2.40
-plotly==5.22.0
-ta==0.11.0
-matplotlib==3.8.4
-kaleido==0.2.1
