@@ -1,6 +1,6 @@
 # Stock Market Prediction with Deep Learning
 
-Predicting High, Low, and Close prices for any publicly traded stock using LSTM, GRU, and a Bidirectional LSTM with Attention — trained side by side, evaluated on held-out historical data, and used to forecast the next trading day with a Monte Carlo Dropout confidence interval.
+Predicting High, Low, and Close prices for any publicly traded stock using LSTM, GRU, and a Bidirectional LSTM with Attention - trained side by side, evaluated on held-out historical data, and used to forecast the next trading day with a Monte Carlo Dropout confidence interval.
 
 ## What this does
 
